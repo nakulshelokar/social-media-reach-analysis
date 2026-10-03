@@ -1,0 +1,13 @@
+Customer ID,Customer Name,Age,City,Email,Purchase Amount,Purchase Date,Status
+101,Aarav,22,Nagpur,aarav@example.com,1200,2026-01-05,Completed
+102,Priya,,mumbai,priya@example.com,2500,2026-01-08,completed
+103,Rohan,29,Pune,rohan@example.com,1800,2026-01-10,COMPLETE
+104,Ananya,35,NAGPUR,ananya@example.com,,2026-01-12,Pending
+105,Kabir,41,Delhi,kabir@example.com,3200,2026-01-15,Completed
+105,Kabir,41,Delhi,kabir@example.com,3200,2026-01-15,Completed
+106,Meera,27,Mumbai,meera@example.com,1500,bad-date,Cancelled
+107,Arjun,-5,Pune,arjun@example.com,-500,2026-02-01,completed
+108,Isha,31,Delhi,invalid-email,2100,2026-02-03,Pending
+109,Vihaan,150,mumbai,vihaan@example.com,999999,2026-02-05,Completed
+110,Sara,,Pune,sara@example.com,1750,2026-02-07,completed
+111,,24,,sara2@example.com,,2026-02-08,
